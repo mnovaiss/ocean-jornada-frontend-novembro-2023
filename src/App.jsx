@@ -3,7 +3,10 @@ import './App.css'
 function App() {
   return (
     <>
-      App
+      <div>
+        <h2>Rick Sanchez</h2>
+      </div>
+      <img src="https://rickandmotapi.com/api/character/avatar/1.jpg" />
     </>
   )
 }
